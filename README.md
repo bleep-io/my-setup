@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Home Office Setup
 
 You can use the [editor on GitHub](https://github.com/bleep-io/my-setup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
